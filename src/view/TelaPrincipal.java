@@ -7,7 +7,7 @@ import java.awt.Color;
 import java.awt.Font;
 import javax.swing.JButton;
 import javax.swing.JFrame;
-public class TelaPrincipal extends JFrame implements ICrud {
+public class TelaPrincipal extends JFrame {
 
     public void mostraGUI() {
 
